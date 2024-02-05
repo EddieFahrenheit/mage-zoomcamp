@@ -19,7 +19,7 @@ variable "location" {
 }
 variable "gcs_bucket_name" {
   description = "The storage bucket name"
-  default     = "de-zoomcamp-mage-bucket"
+  default     = "de_zoomcamp_mage_bucket"
 }
 
 variable "gcs_storage_class" {
